@@ -26,32 +26,41 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+>![Screenshot 2024-10-20 114058](https://github.com/user-attachments/assets/b7b36e5d-a284-467c-bf8b-451d636ca854)
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+>![Screenshot 2024-10-20 115958](https://github.com/user-attachments/assets/27ae07ba-9a36-4f46-9a8d-4fc3a4bf4cd2)
+
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+> ![Screenshot 2024-10-21 093005](https://github.com/user-attachments/assets/73fd79c3-58ce-4775-946a-94e621f503a0)
+> ![Screenshot 2024-10-21 093121](https://github.com/user-attachments/assets/9c37e34e-c13a-44eb-94c2-be725812765f)
+
+
 
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+>![Screenshot 2024-10-21 092123](https://github.com/user-attachments/assets/205b4a9e-a8c4-41fd-bbca-e943b942c557)
+>![Screenshot 2024-10-21 092553](https://github.com/user-attachments/assets/d1eb82c9-80a8-4ea7-acae-49b26053f396)
+
+
 
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+> ![Screenshot 2024-10-21 093842](https://github.com/user-attachments/assets/d030398a-eb98-4168-a7b6-5694169b7b57)
 
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+>![Screenshot 2024-10-21 095117](https://github.com/user-attachments/assets/8cda1f9a-4e30-497a-9f8e-e2694b9fb4b2)
+
 
 ***
 
